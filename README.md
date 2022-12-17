@@ -1,6 +1,12 @@
 # API-Public
 Publicly Visible Maknae API
 
+## Libraries using to Build
+* FastApi 
+* Alembic
+* asyncpg
+* FastApiVersioning
+
 ## Follow Best Practice:
 * https://github.com/zhanymkanov/fastapi-best-practices
 
